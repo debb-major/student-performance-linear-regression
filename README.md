@@ -26,9 +26,11 @@ What started out as a curiosity about "how AI learns stuff" turned into a hands-
    git clone https://github.com/debb-major/student-performance-linear-regression
    
 2. Install dependencies:
+   ```bash
     pip install -r requirements.txt
 
 3. Open the notebook:
+   ```bash
     jupyter notebook notebook/student_scores_analysis.ipynb
 
 
